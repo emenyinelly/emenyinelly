@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me- email: emenyinkafu95@gmail.com, LinkedIn:Emenyi Nelly, X: @nellyemenyi
 - 😄 Pronouns: She
-- ⚡ Fun fact: You can call md Eme
+- ⚡ Fun fact: You can call me Eme
 
 <!---
 emenyinelly/emenyinelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
